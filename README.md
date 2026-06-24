@@ -2,11 +2,12 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](Giovanni:giovanniescuela115@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+[![Gmail Badge](https://img.shields.io/badge/-giovanniescuela115@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovanniescuela115@gmail.com)](Giovanni:giovanniescuela115@gmail.com)
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+Bienvenidos a mi humilde perfil en este mundo digital. Hay 2 tipos de personas en el mundo:
+las que entienden el binario y las que no, y yo no entiendo el binario XD.
 
+Soy estudiante de Desarrollo de Sofware y multiplataforma, actualmente cursando el tercer cuatrimestre pero con muchas ganas de seguir aprendiendo 🚀🚀🚀
 ## :computer: Technologies I Love
 * Flutter
 * Machine Learning
